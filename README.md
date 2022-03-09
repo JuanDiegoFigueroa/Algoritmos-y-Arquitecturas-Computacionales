@@ -1,4 +1,4 @@
-# Algoritmos-y-Arquitecturas-Computacionales
+# Algoritmos y Arquitecturas Computacionales
 En este repositorio se presenta el código empleado para resolver el problema de los n-cuerpos, junto con las visualizaciones deseadas de los resultados obtenidos.
 Además, está el pdf en el que se explica la implementación de la solución al problema con el pseudo-código y en que se detalla el método matemático utilizado.
 
